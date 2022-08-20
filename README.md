@@ -6,5 +6,5 @@
 
 
 <p>
-  <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=gamer99122&bg_color=2D2B55&color=A297E6&line=A297E6&point=D9B60C"></a>
+  <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=gamer99122&bg_color=273849&color=3da47a&line=3da47a&point=#fffefe"></a>
 </p>
